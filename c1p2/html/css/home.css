@@ -1,0 +1,25 @@
+body {
+  background-image: url("../img/emilia-home.jpg");
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+h1 {
+  background: #fff;
+  opacity: 0.6;
+  font-weight: bold;
+  position: relative;
+  top: 850px;
+
+}
+
+h2 {
+  line-height: 2px;
+  position: relative;
+  top: 300px;
+}
+
+header {
+  position: relative;
+}
