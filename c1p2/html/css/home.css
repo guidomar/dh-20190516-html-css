@@ -3,23 +3,37 @@ body {
   background-size: 75%;
   background-repeat: no-repeat;
   background-position: top right;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
-  background: #fff;
-  opacity: 0.6;
-  font-weight: bold;
+  background: rgba(255, 255, 255, 0.3);
   position: relative;
-  top: 850px;
+  top: 750px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: 70px;
 
 }
 
-h2 {
+.ecole {
   line-height: 2px;
   position: relative;
-  top: 300px;
+  top: 250px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 30px;
+  margin-left: 50px
 }
 
 header {
   position: relative;
+}
+
+ul {
+  list-style-type: none;
+  position: relative;
+  top: -225px;
+  margin-left: 0px;
+  line-height: 30px;
+  font-size: 15px;
 }
